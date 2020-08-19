@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome!
+![Bender](https://user-images.githubusercontent.com/44199159/90618648-42d68100-e24b-11ea-8ce9-261ac540724a.jpeg)
 <!--
 **Jeoungseungho/Jeoungseungho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
