@@ -35,7 +35,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/seungho-jeong-79684b210/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seungho-jeong-79684b210/"><img src="https://img.shields.io/badge/-seungho-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <!--
