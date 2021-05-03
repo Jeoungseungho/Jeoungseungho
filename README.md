@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and cloud servicies.\
 🎓 &nbsp;I'm currently studying Biomedical Engineering and Computer Science at the Kyung Hee University.\
-🔭 &nbsp;I'm currently working on SpaceOne Team of Megazone Cloud by backend developer
+🔭 &nbsp;I'm currently working on SpaceOne Team of Megazone Cloud by backend developer.\
 ✉️ &nbsp;You can shoot me an email at wony9795@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [linkedin](https://www.linkedin.com/in/seungho-jeong-79684b210/) for more details about me. I'm open to feedback and suggestions!
 
