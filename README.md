@@ -3,12 +3,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and cloud servicies.\
 🎓 &nbsp;I'm currently studying Biomedical Engineering and Computer Science at the Kyung Hee University.\
-🔭 &nbsp;I'm currently working on SpaceOne Team of Megazone Cloud by backend developer.\
+🔭 &nbsp;I'm currently working on PUBG studio of Krafton by DevOps Engineer.\
 ✉️ &nbsp;You can shoot me an email at wony9795@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [linkedin](https://www.linkedin.com/in/seungho-jeong-79684b210/) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go]("https://img.shields.io/badge/Go-05122A?style=flat&logo=#00ADD8&logoColor=white")&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
